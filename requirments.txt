@@ -1,0 +1,4 @@
+waitress
+pickle
+numpy
+flask
