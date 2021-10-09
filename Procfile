@@ -1,1 +1,1 @@
-web: waitress-serve churn_serving:app
+web: gunicorn churn_serving:app
